@@ -4,4 +4,4 @@ Two types of navigation exist. Buttons are created dynamically depending on the 
 
 View the scripts.js file for more help on slideshow timing settings. Currently set to 4 seconds.
 
-Demo: http://codepen.io/chrisj-skinner/pen/pvFBf
+Demo: http://chrisskinner.co/coding/simple-jquery-slideshow/
