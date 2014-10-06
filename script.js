@@ -1,7 +1,7 @@
 /*
 Simple jQuery Slideshow
 Author: Chris Skinner
-Website: http://www.fidev.co.uk
+Website: http://www.chrisskinner.co
 
 -- Expand the slideshow by just adding new img tags in slideshow.html
 
